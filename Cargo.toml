@@ -10,4 +10,6 @@ repository = "https://github.com/markonyango/lodash-rs"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
-[dependencies]
+[lib]
+name = "lodash_rs"
+path = "src/lib.rs"
