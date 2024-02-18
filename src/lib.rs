@@ -6,6 +6,7 @@ mod cast_array;
 mod ceil;
 mod chunk;
 mod clone;
+mod compact;
 
 /// Private modules for internal use only
 
