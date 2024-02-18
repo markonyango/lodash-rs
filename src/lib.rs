@@ -5,6 +5,7 @@ mod capitalize;
 mod cast_array;
 mod ceil;
 mod chunk;
+mod clone;
 
 /// Private modules for internal use only
 
